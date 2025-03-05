@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is  Uma Srivani and I'm  pursuring  B.Tech. 3rd year from IT Department.</h2>
+<h5 align="center">My Name is Uma Srivani, I am  pursuring B.Tech. 3rd  year from the department of Information Technology. I am confident on my ability to work in a team. As a fresher I am looking forward for an opportunity to put my skills in pratice as a software engineer and an Full Stack Developer skills along with capability of personal skills</h5>
 
 ###
 
