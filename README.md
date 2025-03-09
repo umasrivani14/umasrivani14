@@ -1,4 +1,4 @@
-<img  align="center" height="150" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30VRFO6euXP8sdfPeqh4JGX0leRB2H0---A&s">
+<img  align= src ="https://e0.pxfuel.com/wallpapers/596/203/desktop-wallpaper-pics-blue-circuit-digital-technology-background.jpg">
 <h1 align="center">Hi I am Uma Srivani
 <h5 align="center">I am  pursuring B.Tech. 3rd  year from the department of Information Technology. I am confident on my ability to work in a team. As a fresher I am looking forward for an opportunity to put my skills in pratice as a software engineer and an Full Stack Developer skills along with capability of personal skills</h5>
 
