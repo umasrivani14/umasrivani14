@@ -1,4 +1,4 @@
-<img align="center" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNQ0AQy3it0m5Org7mGzkNI5g9pkdK2zdUg&s">
+<img align="center" src ="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif">
 <h1 align="center">Hi I am Uma Srivani
 <h5 align="center">I am  pursuring B.Tech. 3rd  year from the department of Information Technology. I am confident on my ability to work in a team. As a fresher I am looking forward for an opportunity to put my skills in pratice as a software engineer and an Full Stack Developer skills along with capability of personal skills</h5>
 
